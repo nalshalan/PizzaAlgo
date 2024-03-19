@@ -1,2 +1,5 @@
 Decide which business to order from
+a. Which pizza company makes the best pizza?
 Decide which type of pizza to order
+a. What is the best pizza of your choice?
+b. What is the price?
