@@ -1,2 +1,9 @@
 Decide which business to order from
+Which pizza company makes the best pizza?
 Decide which type of pizza to order
+What is the best pizza of your choice?
+What is the price?
+Choose either a pickup or delivery
+Pay the tips
+Enjoy your pizza!
+
